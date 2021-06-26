@@ -92,7 +92,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
-  <img src="Portfolio.jpg" style="width:100%">
+  <img src="image/Portfolio.jpg" style="width:100%">
   <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
@@ -129,7 +129,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <h1 class="w3-jumbo"><span class="w3-hide-small">~ Hello World ~</span> </h1>
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Pramod Kumar Saini</h1>
     <p>WEB DEVELOPER AND COMPETITIVE PROGRAMMER</p>
-    <img src="pramod.jpeg" alt="boy" class="w3-image" class="img-thumbnail"width="992" height="1108">
+    <img src="image/pramod.jpeg" alt="boy" class="w3-image" class="img-thumbnail"width="992" height="1108">
   </header>
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">ABOUT</h2>
@@ -172,28 +172,28 @@ WEB DEVELOPMENT :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY ;</br>
     <hr style="width:200px" class="w3-opacity">
 	 <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-third">
-        <img src="ruby.png" style="width:50%">
+        <img src="image/ruby.png" style="width:50%">
 		<p> HYPERTEXT LANGUAGE</p>
-        <img src="jQuery.png" style="width:50%">
+        <img src="image/jQuery.png" style="width:50%">
 		<p>  CASCADING STYLE</p>
-		<img src="html.png" style="width:50%">
+		<img src="image/html.png" style="width:50%">
 		<p> DATA STRUCTURE </p>
       </div>
 
       <div class="w3-third">
-        <img src="html.png" style="width:50%">
+        <img src="image/html.png" style="width:50%">
 		<p> JAVASCRIPT </p>
-		<img src="ruby.png" style="width:50%">
+		<img src="image/ruby.png" style="width:50%">
 		<p> JQUERY </p>
-		 <img src="jQuery.png" style="width:50%">
+		 <img src="image/jQuery.png" style="width:50%">
 		<p>  BOOTSTRAP</p>
       </div>
 	  <div class="w3-third">
-        <img src="html.png" style="width:50%">
+        <img src="image/html.png" style="width:50%">
 		<p> C & C++ Programing  </p>
-		<img src="ruby.png" style="width:50%">
+		<img src="image/ruby.png" style="width:50%">
 		<p> AlGORITHM</p>
-		 <img src="jQuery.png" style="width:50%">
+		 <img src="image/jQuery.png" style="width:50%">
 		<p>  REACT AND NODE JS</p>
       </div>
     <!-- End photo grid -->
@@ -266,11 +266,11 @@ WEB DEVELOPMENT :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY ;</br>
     <!-- End Grid/Pricing tables -->
     </div>
 	 <h3 class="w3-padding-24 w3-text-light-grey">My Reputation</h3>  
-    <img src="pramod.jpeg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <img src="image/pramod.jpeg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">Pramod Saini</span> WEB DEVELOPER.</p>
     <p>Pramod Saini .</p><br>
     
-    <img src="pramod.jpeg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <img src="image/pramod.jpeg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">Pramod Saini.</span> Student  at Engineering COLLEGE.</p>
     <p>No one is better than Pramod.</p>
   <!-- End About Section -->
@@ -282,16 +282,16 @@ WEB DEVELOPMENT :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY ;</br>
     <hr style="width:200px" class="w3-opacity">
 	 <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
-        <img src="HTML.jpg" style="width:100%">
-        <img src="CSS udemy certificate.jpg" style="width:100%">
-        <img src="JAVASCRIPT udemy certificate.jpg" style="width:100%">
-		 <img src="HTML & CSS.png" style="width:100%">
+        <img src="image/HTML.jpg" style="width:100%">
+        <img src="image/CSS udemy certificate.jpg" style="width:100%">
+        <img src="image/JAVASCRIPT udemy certificate.jpg" style="width:100%">
+		 <img src="image/HTML & CSS.png" style="width:100%">
       </div>
 
       <div class="w3-half">
-        <img src="JQUERY udemy certificate.jpg" style="width:100%">
-		<img src="BOOTSTRAP udemy certificate.jpg" style="width:100%">
-        <img src="photoshop certificate.jpg" style="width:100%">
+        <img src="image/JQUERY udemy certificate.jpg" style="width:100%">
+		<img src="image/BOOTSTRAP udemy certificate.jpg" style="width:100%">
+        <img src="image/photoshop certificate.jpg" style="width:100%">
       </div>
     <!-- End photo grid -->
     </div>
@@ -326,22 +326,22 @@ WEB DEVELOPMENT :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY ;</br>
     <hr style="width:200px" class="w3-opacity">
 	 <div class="w3-row-padding" style="margin:0 -16px">
 	  <div class="w3-third">
-	    <img src = "5 star.jpg" style = "width:100%">
+	    <img src = "image/5 star.jpg" style = "width:100%">
 		<p> C PROGRAMMING LANGUAGE </p>
-		 <img src = "5 star.jpg" style = "width:100%">
+		 <img src = "image/5 star.jpg" style = "width:100%">
 		<p> 30 DAYS OF CODE </p>
 		
 	  </div>
 	  <div class="w3-third">
-	    <img src = "5 star.jpg" style = "width:100%">
+	    <img src = "image/5 star.jpg" style = "width:100%">
 		<p> C++ PROGRAMMING LANGUAGE </p>
-		 <img src = "5 star.jpg" style = "width:100%">
+		 <img src = "image/5 star.jpg" style = "width:100%">
 		<p> MATHEMATICS PROBLEM </p>
 	  </div>
 	  <div class="w3-third">
-	    <img src = "5 star.jpg" style = "width:100%">
+	    <img src = "image/5 star.jpg" style = "width:100%">
 		<p> PROBLEM SOLVING (DATA STRUCTURE)</p>
-		 <img src = "5 star.jpg" style = "width:100%">
+		 <img src = "image/5 star.jpg" style = "width:100%">
 		<p> ALGORITHM PROBLEM </p>
 	  </div>
 	  <p class="w3-medium"><a href="https://www.hackerrank.com/pramodsaini25061" target="_blank" class="w3-hover-text-green"  ><i class='fas fa-hand-pointer' style='font-size:48px;color:red'>HACKERRANK PROFILE </i></a></p>
@@ -355,24 +355,24 @@ WEB DEVELOPMENT :: HTML , CSS, JAVASCRIPT , BOOTSTRAP , JQUERY ;</br>
     <hr style="width:200px" class="w3-opacity">
 	 <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
-        <img src="company.jpg" style="width:100%">
+        <img src="image/company.jpg" style="width:100%">
 		<p>  Company Website </p>
-        <img src="clinic.jpg" style="width:100%">
+        <img src="image/clinic.jpg" style="width:100%">
 		<p>  Clinic Website </p>
-        <img src="resume.jpg" style="width:100%">
+        <img src="image/resume.jpg" style="width:100%">
 		<p>  Resume Website </p>
-		<img src="school.jpg" style="width:100%">
+		<img src="image/school.jpg" style="width:100%">
 		<p>  School Website </p>
       </div>
 
       <div class="w3-half">
-        <img src="library.jpg" style="width:100%">
+        <img src="image/library.jpg" style="width:100%">
 		<p>  Library Website </p>
-        <img src="institute.jpg" style="width:100%">
+        <img src="image/institute.jpg" style="width:100%">
 		<p>  Institute Website </p>
-		<img src="lawyer.jpg" style="width:100%">
+		<img src="image/lawyer.jpg" style="width:100%">
 		<p>  Lawyer Website </p>
-		<img src="courier.jpg" style="width:100%">
+		<img src="image/courier.jpg" style="width:100%">
 		<p>  Courier Website </p>
       </div>
     <!-- End photo grid -->
